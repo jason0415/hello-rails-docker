@@ -1,5 +1,2 @@
-docker build -t jason0415/hello-rails-docker .
-docker run -d -p 3000:3000 --name hello-rails-docker jason0415/hello-rails-docker
-
-check your ip
-then go to your browser type: ip:3000
+1. docker-compose up
+2. check your ip then go to your browser type: ip:3000
